@@ -92,6 +92,7 @@ ifade eder.
 3. <p align="justify">Deplase/iptal talebinin karşılanmasının imkanının olmaması halinde bu maddenin ikinci fıkrasının (d) ve (e) bendleri sırasındaki belgelerin rapor ekinde yer almasına gerek yoktur.</p>
 4. <p align="justify">Deplase/iptal talebinin gerçekleştirilmesi imkanının olmaması halinde deplase/iptal komisyonu tarafından, gerekçeleri içeren rapor düzenlenir ve TEDAŞ yetkili makamlarının onayını müteakip alınan karar talep sahibine bildirilir.</p>
 5. <p align="justify">Deplase/iptal taleplerinin gerçekleştirilmesi imkanının olması halinde deplase/iptal komisyonunca hazırlanan raporun onayını müteakip bu Usul ve Esasların 11 inci maddesinde belirtilen kıymet takdir çalışmasını gerektirecek durumlarda dosya kıymet takdir komisyonuna sevk edilir. Kıymet takdir çalışmasını gerektirmeyecek durumlarda ise bu Usul ve Esasların 15 inci maddesi kapsamında Protokol hazırlanır.</p>
+
 ## **ÜÇÜNCÜ BÖLÜM**
 ### **Genel Esaslar**
 
