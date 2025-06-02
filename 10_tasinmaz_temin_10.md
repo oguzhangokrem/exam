@@ -19,21 +19,21 @@ Bu Usul ve Esaslar; 6446 Sayılı Elektrik Piyasası Kanunu, 2942 sayılı Kamul
 #### **Tanımlar ve Kısaltmalar**
 ##### **MADDE 4 -** 
 1. Bu Usul ve Esaslarda geçen;
-a) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
-b) Büyük Ova Koruma Alanı Tarım Dışı Kullanım İzni İşlemi: 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu'nun 14'üncü maddesi kapsamında yürütülecek işlemleri,
-c) Devir: 2942 sayılı Kamulaştırma Kanunu kapsamında Hazine dışındaki kamu kurum ve kuruluşlarına ait taşınmazların teminini,
-ç) Hak tesisi: Hazinenin mülkiyetindeki veya Devletin hüküm ve tasarrufu altındaki taşınmazlar üzerinde irtifak hakkı tesisi, kullanma izni verilmesi veya kiralama yapılabilmesini,
-d) Kamulaştırma: 2942 sayılı Kamulaştırma Kanunu kapsamında özel mülkiyete konu taşınmazların teminini,
-e) Mera Vasıf Değişikliği İşlemi: 4342 sayılı Mera Kanunu'nun 14'üncü maddesi kapsamında yürütülecek işlemleri,
-f) Merkez Birimi: Türkiye Elektrik Dağıtım A.Ş. Genel Müdürlüğü'nü,
-g) MERNİS: Merkezi Nüfus İdare Sistemi'ni,
-ğ) Şirket: Elektrik Dağıtım Şirketini,
-h) TAKPAS: Tapu Ve Kadastro Veri Paylaşım Sistemi'ni,
-ı) Tarım Dışı Amaca Tahsis İşlemi: 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu'nun 13'üncü maddesi kapsamında yürütülecek işlemleri,
-i) Taşra Birimi: Türkiye Elektrik Dağıtım A.Ş.'nin Bölge Müdürlükleri'ni,
-j) TEDAŞ: Türkiye Elektrik Dağıtım Anonim Şirketi'ni,
-k) Teknik Şartname: TEDAŞ tarafından yayımlanan "Kamulaştırma Haritası ve Plan Tadilatı Hizmetlerine ait Teknik Şartname"yi,
-l) Yönetim Kurulu: Türkiye Elektrik Dağıtım A.Ş. Yönetim Kurulu'nu,
+-  a) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+- b) Büyük Ova Koruma Alanı Tarım Dışı Kullanım İzni İşlemi: 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu'nun 14'üncü maddesi kapsamında yürütülecek işlemleri,
+- c) Devir: 2942 sayılı Kamulaştırma Kanunu kapsamında Hazine dışındaki kamu kurum ve kuruluşlarına ait taşınmazların teminini,
+- ç) Hak tesisi: Hazinenin mülkiyetindeki veya Devletin hüküm ve tasarrufu altındaki taşınmazlar üzerinde irtifak hakkı tesisi, kullanma izni verilmesi veya kiralama yapılabilmesini,
+- d) Kamulaştırma: 2942 sayılı Kamulaştırma Kanunu kapsamında özel mülkiyete konu taşınmazların teminini,
+- e) Mera Vasıf Değişikliği İşlemi: 4342 sayılı Mera Kanunu'nun 14'üncü maddesi kapsamında yürütülecek işlemleri,
+- f) Merkez Birimi: Türkiye Elektrik Dağıtım A.Ş. Genel Müdürlüğü'nü,
+- g) MERNİS: Merkezi Nüfus İdare Sistemi'ni,
+- ğ) Şirket: Elektrik Dağıtım Şirketini,
+- h) TAKPAS: Tapu Ve Kadastro Veri Paylaşım Sistemi'ni,
+- ı) Tarım Dışı Amaca Tahsis İşlemi: 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu'nun 13'üncü maddesi kapsamında yürütülecek işlemleri,
+- i) Taşra Birimi: Türkiye Elektrik Dağıtım A.Ş.'nin Bölge Müdürlükleri'ni,
+- j) TEDAŞ: Türkiye Elektrik Dağıtım Anonim Şirketi'ni,
+- k) Teknik Şartname: TEDAŞ tarafından yayımlanan "Kamulaştırma Haritası ve Plan Tadilatı Hizmetlerine ait Teknik Şartname"yi,
+- l) Yönetim Kurulu: Türkiye Elektrik Dağıtım A.Ş. Yönetim Kurulu'nu,
 ifade eder.
 
 ## **İKİNCİ BÖLÜM**
