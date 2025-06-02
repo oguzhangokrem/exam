@@ -50,11 +50,11 @@ ifade eder.
 - b) Genel aydınlatma ile ilgili verilen görevleri yapmak,
 - c) Bakanlıklar, ilgili kurum ve kuruluşlar tarafından verilecek denetim görevlerini bedeli karşılığında yapmak,
 - ç) 4/12/1984 tarihli ve 3096 sayılı Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretimi, İletimi, Dağıtımı ve Ticareti ile Görevlendirilmesi Hakkında Kanun ile 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanun kapsamında özel hukuk tüzel kişileri tarafından devralınıp işletilen dağıtım bölgeleri dâhilinde dağıtım tesislerinin maliki sıfatıyla, İşletme Hakkı Devir Sözleşmesi ile belirlenen esaslara göre gerekli iş ve işlemleri yapmak,
-- d) Dağıtım şirketlerinin operasyonel şebeke ve yatırım faaliyetlerini; gereklilik, öncelik ve karakteristik yönünden denetleme ile ilgili işlemleri yapmak
+- d) Dağıtım şirketlerinin operasyonel şebeke ve yatırım faaliyetlerini; gereklilik, öncelik ve karakteristik yönünden denetleme ile ilgili işlemleri yapmak,
 - e) Gerektiğinde ve/veya görev verildiğinde yurt içi ve/veya yurt dışında elektrik dağıtım faaliyetleri yapmak veya yaptırmak,
 - f) Hizmet kalitesi ve müşteri memnuniyetini arttırmak için gerekli Ar-Ge çalışmaları yapmak ve yeni performans kriterleri belirlemek,
 - g) Proje kontrol ve onay, geçici ve kesin kabul işlemleri vb. konuları bedeli karşılığında yapmak,
-- ğ) 2/8/2013 tarihli ve 28726 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Dağıtım ve Tedarik Lisanslarına İlişkin Tedbirler Yönetmeliği kapsamında verilecek görevleri yapmak,
+- ğ) 2/8/2013 tarihli ve 28726 sayılı Resmî Gazete’de yayımlanan [Elektrik Piyasasında Dağıtım ve Tedarik Lisanslarına İlişkin Tedbirler Yönetmeliği](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18675&MevzuatTur=7&MevzuatTertip=5) kapsamında verilecek görevleri yapmak,
 - h) Laboratuvar ve eğitim tesisleri kurmak, dağıtım şebekesinde kullanılacak malzeme ve teçhizatın şartnamelerini hazırlamak, şebekede kullanılacak malzeme veya teçhizatın uygunluk değerlendirmesine ilişkin belgelendirme sürecini yürütmek ve tüm bunlarla ilgili belge/sertifika verme işlemlerini yapmak,
 - ı) Yurt içi ve yurt dışında şirket kurmak, şirkete ortak olmak veya şirketlerle işbirliği yapmak,
 - i) Ulusal ve uluslararası dağıtım şirketlerine enerji danışmanlığı ve mühendislik faaliyetleri yapmak,
