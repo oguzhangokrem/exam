@@ -160,7 +160,7 @@ ifade eder.
 11. Belgenin iki yetkili tarafından imzalanması durumunda üst unvan sahibinin adı, soyadı, unvanı ve imzası sağda yer alır. Belgenin ikiden fazla yetkili tarafından imzalanması durumunda en üst unvan sahibinin adı, soyadı, unvanı ve imzası en solda olmak üzere yetkililer unvan sırasına göre soldan sağa doğru sıralanır (Örnek 11).
 12. Elektronik ortamda hazırlanan rapor veya benzeri bir belge, sorumluluğu bulunan yetkili veya yetkililer tarafından güvenli elektronik imza ile imzalanır. Zorunlu hâllerde veya olağanüstü durumlarda rapor ya da benzeri bir belgenin hazırlanması hâlinde, belgede sorumluluğu bulunan yetkili veya yetkililer tarafından son sayfa imzalanır, son sayfadan önceki sayfalar ise imza sahibi veya imza sahipleri tarafından ya imzalanır ya da paraflanır. Gerekli görülmesi hâlinde, fiziksel ortamda sayfalar ayrıca en az bir kişisel mühürle veya idare mührüyle mühürlenir. İmza, paraf veya mühür metin bölümünün okunmasını engellemeyecek şekilde sayfada yer alır.
 13. Zorunlu hâllerde veya olağanüstü durumlarda üst yazıya ilişkin olarak idare tarafından hazırlanan ve on ikinci fıkrada belirtilenler haricindeki ekler, imza sahibi veya imza sahiplerinden en az biri tarafından imzalanır ya da paraflanır veyahut paraf zincirinde yer alanların en az biri tarafından paraflanır. Gerekli görülmesi hâlinde ekler ayrıca idare mührüyle mühürlenir. İmza, paraf veya mühür metin bölümünün okunmasını engellemeyecek şekilde sayfada yer alır.
-14. Zorunlu hâllerde veya olağanüstü durumlarda hazırlanan dağıtımlı belgelerde, nüshaların her biri ilgili makam tarafından imzalanabileceği gibi imzalanan bir nüsha,          29 uncu maddedeki usule göre çoğaltılarak da muhataplara gönderilebilir.
+14. Zorunlu hâllerde veya olağanüstü durumlarda hazırlanan dağıtımlı belgelerde, nüshaların her biri ilgili makam tarafından imzalanabileceği gibi imzalanan bir nüsha,          [29 uncu madde](#MADDE-29-)deki usule göre çoğaltılarak da muhataplara gönderilebilir.
 
 ### **Ek**
 #### **MADDE 18-**
@@ -238,5 +238,62 @@ ifade eder.
 1. Zorunlu hâllerde veya olağanüstü durumlarda ya da bu Yönetmeliğin yürürlüğe girdiği tarihten önce fiziksel ortamda hazırlanan bir belgeden örnek çıkartılması hâlinde, çoğaltılan belgenin uygun bir yerine “ASLI GİBİDİR” ibaresi konulur ve yetkilendirilmiş görevli tarafından ad, soyad, unvan ve tarih belirtilmek suretiyle imzalanır. Bu şekilde çoğaltılan belge, asıl belge gibi kabul edilir.
 2. Güvenli elektronik imza ile imzalanan belgeler, veri depolama araçlarıyla da iletilebilir. Bu durumda gönderme ve alma işlemine ilişkin kayıt tutulur.
 3. İdare, resmî yazışma kapsamında kendisine iletilen ve [e-Yazışma Teknik Rehberi](https://cbddo.gov.tr/SharedFolderServer/CMSFiles/eYazismaV2-1.pdf)’ne uygun şekilde hazırlanmış belgeleri işleme koymakla yükümlüdür.
-4. 
+4. İdare, başka bir idareden kendisine resmî yazışma kapsamında iletilen ve [e-Yazışma Teknik Rehberi](https://cbddo.gov.tr/SharedFolderServer/CMSFiles/eYazismaV2-1.pdf)’nde tanımlanan kurallara uygun şekilde hazırlanmamış bir belgeyi reddetme hakkına sahiptir. Bu durumda, kendisine iletilen belgeyi reddeden idare, gönderen idareye bu durumu sebepleriyle birlikte belgenin kendisine ulaştığı tarihi takip eden ikinci iş gününün sonuna kadar bildirir.
+5. Resmî yazışma kapsamında idare dışına gönderilen güvenli elektronik imza ile imzalanan belgeler, gerekli hâllerde elektronik olarak şifrelenir. Elektronik belgelerin şifrelenmesi işlemi [e-Yazışma Teknik Rehberi](https://cbddo.gov.tr/SharedFolderServer/CMSFiles/eYazismaV2-1.pdf)’nde tanımlandığı şekilde yapılır. Kullanılacak şifreleme sertifikaları yetkili elektronik sertifika hizmet sağlayıcılarından temin edilir.
+6. [e-Yazışma Teknik Rehberi](https://cbddo.gov.tr/SharedFolderServer/CMSFiles/eYazismaV2-1.pdf)’nde tanımlanan şifreleme mekanizmasına uygun şekilde kendilerine şifreli belge iletilebilmesini talep eden idareler, kendileri için elektronik şifreleme sertifikası temin eder. İdareler için oluşturulan elektronik şifreleme sertifikaları DETSİS üzerinden paylaşılır. İdareler, elektronik şifreleme sertifikasına sahip olması şartıyla diğer idarelerden resmî yazışma kapsamında kendilerine gönderilen ve [e-Yazışma Teknik Rehberi](https://cbddo.gov.tr/SharedFolderServer/CMSFiles/eYazismaV2-1.pdf)’ne uygun şekilde şifrelenmiş belgeleri kabul etmekle yükümlüdür. İdareler, karşılıklı olarak üzerinde anlaşmak koşuluyla, [e-Yazışma Teknik Rehberi](https://cbddo.gov.tr/SharedFolderServer/CMSFiles/eYazismaV2-1.pdf)’nde tanımlanan şifreleme mekanizmasından farklı şifreleme mekanizmaları kullanabilir.
+7. İdare, [e-Yazışma Teknik Rehberi](https://cbddo.gov.tr/SharedFolderServer/CMSFiles/eYazismaV2-1.pdf)’nde tanımlandığı şekilde şifrelenerek kendisine gönderilen resmî yazışma kapsamındaki bir belgenin şifresini açamazsa veya belgenin şifresini açmakla birlikte belge içeriğinin [e-Yazışma Teknik Rehberi](https://cbddo.gov.tr/SharedFolderServer/CMSFiles/eYazismaV2-1.pdf)’nde belirtilen şifreleme mekanizması için tanımlanan özellikleri taşımadığını belirlerse bu belgeyi reddeder ve durumu şifreli belgenin kendisine ulaştığı günü takip eden ikinci iş gününün sonuna kadar kendisine iletilen şifreli belgeyi tanımlayan bilgilerle birlikte, belgeyi gönderen idareye bildirir ve hem bu bildirimi hem de kendisine iletilen şifreli belgeyi kayıt altına alır. İdarenin bildirimde bulunmaması hâlinde, gönderilen şifreli belge açılmış, içeriğine erişilmiş ve bu belgenin [e-Yazışma Teknik Rehberi](https://cbddo.gov.tr/SharedFolderServer/CMSFiles/eYazismaV2-1.pdf)’ne uygun şekilde hazırlandığı kabul edilmiş sayılır.
 
+### **Belgenin fiziksel ortamda gönderilmesi ve alınması**
+#### **MADDE 31-**
+1. Muhatabına elektronik olarak iletiminin mümkün olmadığı durumlarda, yetkilendirilmiş görevliler tarafından çıktısı alınan güvenli elektronik imzalı belge, elektronik ortamdaki aslına erişim amacı ile fiziksel ortamda gönderilir. Fiziksel ortamda alınan belgenin doğrulama işlemi, [23 üncü madde](#MADDE-23-)nin ikinci fıkrasında belirtildiği şekilde gerçekleştirilir. Doğrulaması yapılan belge, muhatap idare tarafından işleme alınır.
+2. Belge zarflanarak muhatabına iletildiğinde başlık bilgisi, ihtiyaç duyulması hâlinde gönderen idarenin adres bilgisi, belgenin tarihi ve sayısı zarfın sol üst köşesine; muhatabın adı ve adres bilgisi zarfın ortasına kısaltma kullanılmadan yazılır. Varsa süre ve kişiye özel bilgisi (ACELE, GÜNLÜDÜR, KİŞİYE ÖZEL), üstte olmak üzere, zarfın sağ üst köşesinde kırmızı renkli büyük harflerle belirtilir (Örnek 22).
+3. “Hizmete Özel” haricindeki gizlilik dereceli belgelerin gerekli güvenlik tedbirleri alınarak fiziksel ortamda gönderilmesi esastır. Ancak 23/10/2010 tarihli ve 27738 sayılı Resmî Gazete’de yayımlanan “Kamu Kurum ve Kuruluşları ile Gerçek ve Tüzel Kişilerin Elektronik Haberleşme Hizmeti İçinde Kodlu veya Kriptolu Haberleşme Yapma Usul ve Esasları Hakkında Yönetmelik”in 2 nci maddesinde yetkili kılınan idareler, gizlilik dereceli belgeleri gerekli güvenlik tedbirlerini almak şartıyla güvenli elektronik imza ile imzalayarak elektronik ortamda da gönderebilir.
+4. İdareye fiziksel ortamda gelen belgenin alındığı tarih ile belgeye ait üstveriler EBYS’ye veya kurumsal belge kayıt sistemine kaydedilir.
+5. İdareler, fiziksel ortamda alınan belgeler için gelen belge kaydında kullanacakları etikette/kaşede en az Örnek 23’te belirtilen unsurlara yer verir. Etiket/kaşe, üst yazının ilk sayfasının ön veya arka yüzüne basılır.
+6. Birime fiziksel ortamda gelen belgelerle ilgili havale, talimat ve benzeri işlemler, üst yazının ilk sayfasının ön veya arka yüzüne kaşe basılarak belge üzerinde gösterilebilir. Bu kaşenin şekli ilgili birimler tarafından belirlenir.
+7. Kişiler tarafından idareye yazılan dilekçelerin; “… arz ederim.” şeklinde bitirilmemesi veya “… rica ederim.” ibaresiyle ya da başka ibarelerle bitirilmesi dilekçenin işleme alınmasına engel değildir.
+
+### **Belgenin iade edilmesi**
+#### **MADDE 32-**
+1. İdareye muhatabı olmadığı hâlde elektronik ortamda güvenli elektronik imzalı bir belge gelmesi durumunda, belgenin muhatabı olunmadığı bilgisi ve söz konusu belgeye ilişkin tanımlayıcı bilgiler, gönderene elektronik ortamda iletilir. Ancak asıl muhatabın açıkça belli olması durumunda, belge muhataba iletilebilir ve gönderen idareye bilgi verilebilir. Bu durumda belgenin bir kopyası elektronik ortamda muhafaza edilir.
+2. İdareye muhatabı olmadığı hâlde fiziksel ortamda gelen bir belgenin asıl muhatabı anlaşılamıyorsa gönderene iade edilir. Ancak asıl muhatabın açıkça belli olması durumunda, gerektiğinde belgenin bir sureti alınarak aslı muhatabına gönderilir ve belgeyi gönderene de bilgi verilir.
+
+## **BEŞİNCİ BÖLÜM**
+## **Çeşitli ve Son Hükümler**
+### **Görüş, bilgi ve belge taleplerinde süre**
+#### **MADDE 33-**
+1. İdare içi ve idare dışı görüş, bilgi ve belge talep yazıları günlü yazılır. İdareler, ilgili mevzuattaki özel hükümler saklı kalmak kaydıyla süre belirtilmeyen belge taleplerini, talebin kendilerine ulaşmasından itibaren en geç beş iş günü; süre belirtilmeyen bilgi ve görüş taleplerini ise talebin kendilerine ulaşmasından itibaren en geç on beş iş günü içinde yerine getirir. Talebin ulaştığı tarih, elektronik ortamda gelen talepler için ilgili yazının EBYS’ye giriş kaydının yapıldığı zamanı; fiziksel ortamda gelen talepler için ise ilgili yazının EBYS’ye veya kurumsal belge kayıt sistemine girdiği zamanı ifade eder.
+
+### **Tekit yazısı**
+#### **MADDE 34-**
+1. Belgeye süresi içinde cevap verilmemesi durumunda muhataba tekit yazısı yazılabilir (Örnek 24).
+
+### **Uygun yazılmayan belgeler**
+#### **MADDE 35-**
+1. Bu Yönetmeliğe uygun olarak yazılmayan belgelere verilecek cevabî yazılarda, bu Yönetmeliğin ilgili maddeleri belirtilmek suretiyle muhatap uyarılabilir. Söz konusu durumun devam etmesi hâlinde, süreli belgeler hariç müteakip belgeler gerekçesi belirtilerek iade edilebilir.
+
+### **Düzenleme yetkisi ve kılavuz hazırlanması**
+#### **MADDE 36-**
+1. Cumhurbaşkanlığı İdari İşler Başkanlığınca, bu Yönetmeliğin uygulama birliğinin sağlanması ve idari işleyişin verimli yürütülebilmesi amacıyla “[Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik Kılavuzu](https://www.tccb.gov.tr/assets/dosya/resmiyazisma/dosyalar/kilavuz.pdf)” hazırlanır ve duyurulur.
+2. İdareler, resmî yazışmalarla ilgili olarak bu Yönetmeliğe aykırı olmamak kaydıyla ek düzenleme yapabilir.
+3. Bu Yönetmelik ile ilgili eğitim stratejilerini belirlemeye ve koordinasyonu sağlamaya, ortaya çıkabilecek tereddütleri gidermeye ve gerektiğinde uygulamaya yönelik esasları düzenlemeye Cumhurbaşkanlığı İdari İşler Başkanlığı yetkilidir.
+
+### **Yürürlükten kaldırılan mevzuat ve atıflar**
+#### **MADDE 37-**
+1. 15/12/2014 tarihli ve 2014/7074 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik yürürlükten kaldırılmıştır.
+2. Diğer mevzuatta, birinci fıkrada belirtilen mülga yönetmeliğe yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+
+### **EBYS'lerin uyumlu hale getirilmesi**
+#### **GEÇİCİ MADDE 1-**
+1. Bu Yönetmeliğin yürürlüğe girdiği tarihten önce kurulan EBYS’ler, idarelerce altı ay içinde bu Yönetmelik hükümlerine uyumlu hâle getirilir. Bu Yönetmeliğin yürürlüğe girdiği tarihten sonra kurulacak olan EBYS’ler, bu Yönetmelik hükümlerine uyumlu şekilde kurulur.
+2. [30 uncu madde](#MADDE-30-)nin birinci fıkrasında belirtilen güvenli elektronik imza ile imzalanan belgelerin, elektronik ortamda gönderilmesi ve alınması işlemlerini sağlamak amacıyla yetki verilmiş üçüncü taraf aracılığıyla oluşturulacak kullanıcı hesaplarını temin etmeyen idareler, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren üç ay içinde kullanıcı hesaplarını temin ederek DETSİS’e kaydeder ve faal olarak kullanımını sağlar.
+
+### **Yürürlük**
+#### **MADDE 38-**
+1. Bu Yönetmelik yayımını takip eden ayın birinci günü yürürlüğe girer.
+
+### **Yürütme**
+#### **MADDE 39-**
+1. Bu Yönetmelik hükümlerini Cumhurbaşkanı yürütür.
+
+[Ekleri görmek için tıklayınız](https://mevzuat.gov.tr/mevzuatmetin/21.5.2646-Ek.pdf)
