@@ -75,7 +75,7 @@ Kamulaştırmayı yapacak idare, kamulaştırma veya kamulaştırma yolu ile üz
 İdare kamulaştırma kararı verdikten sonra kamulaştırmanın tapu siciline şerh verilmesini kamulaştırmaya konu taşınmaz malın kayıtlı bulunduğu tapu idaresine bildirir. Bildirim tarihinden itibaren malik değiştiği takdirde, mülkiyette veya mülkiyetten gayri ayni haklarda meydana gelecek değişiklikleri tapu idaresi kamulaştırmayı yapan idareye bildirmek zorundadır. (**Değişik cümle: 24/4/2001 - 4650/2 md.)** İdare tarafından, şerh tarihinden itibaren altı ay içinde [10 uncu madde](#Madde-10--)ye göre kamulaştırma bedelinin tespitiyle idare adına tescili isteğinde bulunulduğuna dair mahkemeden alınacak belge tapu idaresine ibraz edilmediği takdirde, bu şerh tapu idaresince resen sicilden silinir.
 
 #### **Satın alma usulü**
-##### **Madde 8-**
+##### **Madde 8 -**
 İdarelerin, bu Kanuna göre, tapuda kayıtlı olan taşınmaz mallar hakkında yapacağı kamulaştırmalarda satın alma usulünü öncelikle uygulamaları esastır.
 Kamulaştırma kararının alınmasından sonra kamulaştırmayı yapacak idare, bu Kanunun [11 inci maddesi](#Madde-11--)ndeki esaslara göre ve konuyla ilgili uzman kişi, kurum veya kuruluşlardan da rapor alarak, gerektiğinde Sanayi ve Ticaret Odalarından ve mahalli emlak alım satım bürolarından alacağı bilgilerden de faydalanarak taşınmaz malın tahmini bedelini tespit etmek üzere kendi bünyesi içinden en az üç kişiden teşekkül eden bir veya birden fazla kıymet takdir komisyonunu görevlendirir.
 Ayrıca idare, tahmin edilen bedel üzerinden pazarlıkla satın alma ve trampa işlemlerini yürütmek ve sonuçlandırmak üzere kendi bünyesi içinden en az üç kişiden teşekkül eden bir veya birden fazla uzlaşma komisyonunu görevlendirir.
@@ -98,7 +98,8 @@ Bu tespitte görev yapan muhtar veya vekili, ihtiyar kurulu üyeleri ile bilirki
 ### **Kamulaştırma Bedelinin Mahkemece Tespiti ve İdare Adına Tescil, Bedelin Tespiti Esasları**
 
 #### **Kamulaştırma bedelinin mahkemece tespiti ve taşınmaz malın idare adına tescili**
-#####  **Madde 10 – (Değişik: 24/4/2001 - 4650/5 md.)**
+#####  **Madde 10 –** 
+**(Değişik: 24/4/2001 - 4650/5 md.)**
 Kamulaştırmanın satın alma usulü ile yapılamaması halinde idare, [7 nci madde](#Madde-7--)ye göre topladığı bilgi ve belgelerle [8 inci madde](#Madde-8--) uyarınca yaptırmış olduğu bedel tespiti ve bu husustaki diğer bilgi ve belgeleri bir dilekçeye ekleyerek taşınmaz malın bulunduğu yer asliye hukuk mahkemesine müracaat eder ve taşınmaz malın kamulaştırma bedelinin tespitiyle, bu bedelin, peşin veya kamulaştırma [3 üncü madde](#Madde-3--)nin ikinci fıkrasına göre yapılmış ise taksitle ödenmesi karşılığında, idare adına tesciline karar verilmesini ister.
 Mahkeme, idarenin başvuru tarihinden itibaren en geç otuz gün sonrası için belirlediği duruşma gününü, dava dilekçesi ve idare tarafından verilen belgelerin birer örneği de eklenerek taşınmaz malın malikine meşruhatlı davetiye ile veya idarece yapılan araştırmalar sonucunda adresleri bulunamayanlara, [11.2.1959 tarihli ve 7201 sayılı Tebligat Kanunu](https://mevzuat.gov.tr/mevzuat?MevzuatNo=7201&MevzuatTur=1&MevzuatTertip=3)nun 28 inci maddesi gereğince ilan yoluyla tebligat suretiyle bildirerek duruşmaya katılmaya çağırır. Duruşma günü idareye de tebliğ olunur.
 Mahkemece malike doğrudan çıkarılacak meşruhatlı davetiyede veya ilan yolu ile yapılacak tebligatta;
@@ -125,7 +126,8 @@ Bu tescil ve terkin işlemi sırasında mal sahiplerinin bu taşınmaz mal neden
 Kamulaştırma işlemine karşı idari yargıda iptal veya maddi hatalara karşı adli mahkemelerde açılacak düzeltim davalarında hangi idareye husumet yöneltileceğinin davetiye ve ilanda açıkça belirtilmemiş veya yanlış gösterilmiş olması nedeniyle davada husumet yanlış yöneltilmiş ise, gerçek hasma tebligat yapılmak suretiyle davaya devam olunur.
 
 #### **Kamulaştırma bedelinin tespiti esasları:**
-##### **Madde 11 – (Değişik: 24/4/2001 - 4650/6 md.)**
+##### **Madde 11 –** 
+**(Değişik: 24/4/2001 - 4650/6 md.)**
 [15 inci madde](#Madde-15--) uyarınca oluşturulacak bilirkişi kurulu, kamulaştırılacak taşınmaz mal veya kaynağın bulunduğu yere mahkeme heyeti ile birlikte giderek, hazır bulunan ilgilileri de dinledikten sonra taşınmaz mal veya kaynağın;
 - a) Cins ve nevini,
 - b) Yüzölçümünü.
@@ -157,10 +159,12 @@ Bu maddenin uygulanmasından doğacak anlaşmazlıklar adli yargıda çözümlen
 ### **İKİNCİ BÖLÜM**
 ### **Dava Hakkı ve Bilirkişiler**
 #### **Tebligat**
-##### **Madde 13 – (Mülga: 24/4/2001-4650/21 md.)**
+##### **Madde 13 –** 
+**(Mülga: 24/4/2001-4650/21 md.)**
 
 #### **Dava hakkı**
-##### **Madde 14 – (Değişik: 24/4/2001 - 4650/7 md.)**
+##### **Madde 14 –** 
+**(Değişik: 24/4/2001 - 4650/7 md.)**
 Kamulaştırmaya konu taşınmaz malın maliki tarafından [10 uncu madde](#Madde-10--) gereğince mahkemece yapılan tebligat gününden, kendilerine tebligat yapılamayanlara tebligat yerine geçmek üzere mahkemece gazete ile yapılan ilan tarihinden itibaren otuz gün içinde, kamulaştırma işlemine karşı idari yargıda iptal ve maddi hatalara karşı da adli yargıda düzeltim davası açılabilir.
 İdari yargıda açılan davalar öncelikle görülür.
 İştirak halinde veya müşterek mülkiyette, paydaşların tek başına dava hakları vardır.
@@ -168,9 +172,106 @@ Kamulaştırmaya konu taşınmaz malın maliki tarafından [10 uncu madde](#Madd
 İdare tarafından, bu Kanun hükümlerine göre tespit olunan malike ve zilyede karşı açılan davaların görülmesi sırasında, taşınmaz malın gerçek malikinin başka bir şahıs olduğu anlaşıldığı takdirde, davaya bu gerçek malik, tapu malikinin daha önce öldüğü sabit olursa mirasçıları da dahil edilmek suretiyle devam olunur.
 **(İptal altıncı fıkra:** **Anayasa Mahkemesinin 25/12/2024 Tarihli ve E: 2024/101, K: 2024/232 Sayılı Kararı ile.)**
 #### **Bilirkişiler**
-##### **Madde 15 – (Değişik: 3/11/2016-6754/39 md.)**
+##### **Madde 15 –** 
+**(Değişik: 3/11/2016-6754/39 md.)**
 Bu Kanun uyarınca mahkemelerce görevlendirilen bilirkişiler, bilirkişilik bölge kurulları tarafından hazırlanan listelerden seçilir ve bunlar hakkında [Bilirkişilik Kanunu](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6754&MevzuatTur=1&MevzuatTertip=5) ve [12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanunu](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5)nun ilgili maddeleri uygulanır.
 Kamulaştırmaya konu olan yerin cins ve niteliğine göre en az üç kişilik bilirkişi kurulunun oluşturulması zorunludur. Bilirkişilerden birinin taşınmaz geliştirme konusunda yüksek lisans veya doktora yapmış uzmanlar ya da [6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanunu](https://mevzuat.gov.tr/mevzuat?MevzuatNo=6362&MevzuatTur=1&MevzuatTertip=5)na göre yetkilendirilen gayrimenkul değerleme uzmanları arasından seçilmesi zorunludur. Gayrimenkul değerleme uzmanları bakımından, bilirkişiliğe kabul için aranan temel eğitim alma ve fiilen beş yıl görev yapma şartları; yüksek lisans veya doktora yapmış uzmanlar bakımından ise fiilen beş yıl görev yapma şartı aranmaz ve bu uzmanlar kayıtlı oldukları bilirkişilik bölge kurulunun yargı çevresiyle sınırlı olmaksızın görevlendirilir.
 Bilirkişilerin uzmanlık alanları, kamulaştırılacak taşınmazın niteliği göz önüne alınarak belirlenir.
 Bilirkişi kurulu, taşınmaz malın değerini [11 inci](#Madde-11--) ve [12 nci madde](#Madde-12--)lerde yer alan hükümlere göre tayin ve takdir ederek gerekçeli raporunu on beş gün içinde mahkemeye verir.
 Bilirkişilerce yapılan değer tespitinde, idare tarafından belgelerin mahkemeye verildiği gün esas tutulur.
+
+## **ÜÇÜNCÜ KISIM**
+## **Aynın İhtilaflı Bulanması Tescil ve Tapuda Kayıtlı Olmayan Taşınmaz Malın Kamulaştırma Bedelinin Mahkemece Tespiti ve Zilyedin Hakları**
+
+### **BİRİNCİ BÖLÜM**
+### **Elkoyma**
+#### **Acele işlerde elkoyma ve tescil**
+##### **Madde 16 –** 
+**(Mülga: 24/4/2001 - 4650/21 md.)**
+
+### **İKİNCİ BÖLÜM**
+### **Aynın İhtilaflı Olması ve Tescil**
+#### **Tapulu taşınmaz mallarda tescil**
+##### **Madde 17 –** 
+**(Mülga: 24/4/2001 - 4650/21 md.)**
+
+#### **Aynın ihtilaflı bulunması**
+##### **Madde 18 –** 
+**(Değişik: 24/4/2001 - 4650/10 md.)**
+İdare, kamulaştırılması kararlaştırılan taşınmaz malın mülkiyeti üzerinde ihtilaf olup olmadığını, taşınmaz malın bulunduğu yerdeki tapu idaresi, kadastro müdürlüğü ve hukuk mahkemelerinden sorarak ve mahallinde araştırma yaparak tespit eder.
+Yapılan araştırmalar sonucunda, taşınmaz malın tapuda kayıtlı olmakla birlikte mahkemede mülkiyeti üzerinde ihtilaf olduğu veya kadastrosu yapılmasına rağmen kadastro mahkemesinde davalı olduğunun tespit edilmesi halinde idarece, [10 uncu madde](#Madde-10--) uyarınca hazırlanan belgelerin tamamı, taşınmaz malın bulunduğu yer asliye hukuk mahkemesine verilerek, taşınmaz malın kamulaştırma bedelinin tespitiyle, bu bedelin mülkiyet ihtilafıyla ilgili uyuşmazlığın sonucunda belli olacak hak sahibine peşin veya kamulaştırma [3 üncü madde](#Madde-3--)nin ikinci fıkrasına göre yapılmış ise taksitle ödenmesi karşılığında idare adına tesciline karar verilmesi istenir.
+Mahkemece, taşınmaz mal hakkındaki mülkiyet ihtilafı ile ilgili davanın tüm taraflarına, [10 uncu madde](#Madde-10--) uyarınca tebligatların ve ilanların yapılması, taşınmazın kamulaştırma bedelinin yine bu maddedeki usule göre tespit edilmesi ve bu bedelin mülkiyet ihtilafıyla ilgili davanın sonucunda belli olacak hak sahibine ödenmek üzere idarece mahkemenin belirttiği bankaya 10 uncu madde uyarınca ve üçer aylık vadeli hesaba yatırılmasından sonra, bu bedelin ileride belli olacak hak sahibine ödenmesine ve taşınmaz malın idare adına tesciline karar verilir ve bu karar tapu dairesine ve paranın yatırıldığı bankaya bildirilir. [3 üncü madde](#Madde-3--)nin 2 nci fıkrasına göre yapılan kamulaştırmalarda mahkemece belirlenecek kamulaştırma bedelinin ilk ve takibeden taksitleri de mahkemenin belirlediği bankadaki üçer aylık vadeli hesaplara yatırılır.
+Mülkiyet ihtilafı ile ilgili davanın sonucunda, hak sahibi olduğuna mahkemece karar verilen kişinin müracaatı üzerine kamulaştırma bedelini tespit eden mahkemenin, paranın bu hak sahibine ödenmesi için bankaya yazacağı talimat üzerine para hak sahibine ödenir.
+Bu maddede öngörülen işlemler, mahkemenin davetine uymayanlar olduğu takdirde ilgilinin yokluğunda yapılır.
+Kamulaştırılması yapılan taşınmaz mal tahsis edildiği kamu hizmeti itibariyle sicile kaydı gerekmeyen bir niteliğe dönüşmüş ise, istek halinde mahkemece sicil kaydının terkinine karar verilir.
+Bu tescil ve terkin işlemi sırasında mal sahiplerinin bu taşınmaz mal nedeniyle vergi ilişkisi aranmaz. Ancak, tapu dairesi durumu ilgili vergi dairesine bildirir.
+Mahkemece tespit edilen bu bedel taşınmaz mal, kaynak veya irtifak hakkının kamulaştırma bedelidir.
+14 üncü maddede belirtilen süre içinde, kamulaştırma işlemine karşı hak sahipleri tarafından idari yargıda iptal davası açılması ve idari yargı mahkemelerince de yürütmenin durdurulması kararı verilmesi halinde mahkemece, idari yargıda açılan dava bekletici mesele kabul edilerek bunun sonucuna göre işlem yapılır.
+Kamulaştırma işlemine karşı idari yargıda iptal veya maddi hatalara karşı adli mahkemelerde açılacak düzeltim davalarında hangi idareye husumet yöneltileceğinin tebligat ve ilan belgelerinde açıkça belirtilmemiş veya yanlış gösterilmiş olması nedeniyle davada husumet yanlış yöneltilmiş ise, gerçek hasma tebligat yapılmak suretiyle davaya devam olunur.
+
+#### **Tapuda kayıtlı olmayan taşınmaz malların tescili ve zilyedin hakları**
+##### **Madde 19 –** 
+**(Değişik: 24/4/2001 - 4650/11 md.)**
+İdare öncelikle, kamulaştırılması kararlaştırılan tapuda kayıtlı olmayan taşınmaz malın, [21/6/1987 tarihli ve 3402 sayılı Kadastro Kanunu](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3402&MevzuatTur=1&MevzuatTertip=5)nun 16 ncı maddesinde sayılan kamu mallarından olup olmadığını ilgili yerlerden sormak suretiyle tespit eder.
+İdarece yapılan bu araştırma sonucunda, kamulaştırılması kararlaştırılan tapuda kayıtlı olmayan taşınmaz malın, [3402 sayılı Kadastro Kanunu](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3402&MevzuatTur=1&MevzuatTertip=5)nun 16 ncı maddesinde sayılan kamu mallarından olmadığının, taşınmaz malın zilyedi mevcut olup da zilyetlikle iktisap iddiasında bulunulduğunun tespiti halinde, [9 uncu madde](#Madde-9--) gereğince seçilen bilirkişiler marifetiyle mahallinde tahkikat yapar, delilleri toplar ve keyfiyeti bir tutanakla belirtir. Bu tutanakta, taşınmazın yüzölçümü, zilyedin kimliği, vergi kaydı, zilyetliğin başlangıç tarihi ve süresi, mülkiyeti kazanma şartlarının gerçekleşip gerçekleşmediği belirtilir.
+İdarece hazırlanan ve [10 uncu madde](#Madde-10--) uyarınca toplanılan belgelerin tamamı, taşınmaz malın bulunduğu yer asliye hukuk mahkemesine verilerek, taşınmaz malın kamulaştırma bedelinin tespitiyle, bu bedelin peşin veya kamulaştırma bu Kanunun [3 üncü madde](#Madde-3--)sinin ikinci fıkrasına göre yapılmış ise taksitle ödenmesi karşılığında idare adına tesciline karar verilmesi istenir.
+Mahkeme, taşınmaz malın kamulaştırma bedelini [10 uncu madde](#Madde-10--)de belirtilen usulde ve sürede tespit eder. Mahkeme, idarece verilen bilgi ve belgelerden, zilyedin kamulaştırma tarihinde taşınmaz malı Türk Kanunu Medenisi hükümleri dairesinde ve zilyetlikle iktisap etmiş olduğunu belirtmeye yeterli gördüğü takdirde, kamulaştırma bedelinin tespitine ilişkin bilirkişi raporunu idareye, bu raporla birlikte idarece verilen diğer belgeleri tespit edilen zilyede tebliğ eder.
+Ayrıca taşınmaz malın durumu, o yerine en büyük mal memuruna bildirilmekle beraber, taşınmaz malın bulunduğu yerde çıkan bir yerel gazete ve bir internet haber sitesi ile Türkiye genelinde yayımlanan bir gazetede en az birer defa ilan edilir.[21]
+İlanda;
+- a) Taşınmaz malın bulunduğu yeri, mevkii, sınırı, miktarı,
+- b) Zilyedin kimliği,
+- c) Kamulaştırma bedelinin yatırılacağı banka,
+- d) Konuya ve taşınmaz malın değerine ilişkin tüm savunma ve delillerin, ilan tarihinden itibaren on gün içinde mahkemeye yazılı olarak bildirmeleri gerektiği,
+- e) Hak sahiplerinin son ilandan itibaren bir ay içinde itiraz etmedikleri takdirde, kamulaştırma bedelinin zilyede ödeneceğine karar verileceği,
+Belirtilir.
+Son ilandan itibaren otuz gün içinde Hazine veya üçüncü bir kimse tarafından itiraz edilmediği takdirde, mahkemece kamulaştırma bedeli olarak tespit edilen miktarın, peşin ve nakit olarak veya bu Kanunun [3 üncü madde](#Madde-3--)sinin ikinci fıkrasına göre taksitle kamulaştırma yapılmış ise, ilk taksidin yine peşin ve nakit olarak zilyet adına ilanda belirtilen bankaya yatırılması ve yatırıldığına dair makbuzun ibraz edilmesi için idareye onbeş gün süre verilir. Gereken hallerde bu süre bir defaya mahsus olmak üzere mahkemece uzatılabilir. İdare tarafından kamulaştırma bedelinin zilyet adına yatırıldığına dair makbuzun mahkemeye ibrazı halinde mahkemece, taşınmaz malın idare adına tesciline ve kamulaştırma bedelinin zilyede ödenmesine karar verilir ve bu karar tapu dairesine ve paranın yatırıldığı bankaya bildirilir.
+Bu müddet içinde Hazine veya üçüncü şahıslar tarafından itiraz edilmesi halinde ise, mahkemece, tespit edilen kamulaştırma bedelinin ileride hak sahipliğini ispat edecek kişiye ödenmek üzere idarece ilanda belirtilen bankada açılacak üçer aylık vadeli hesaba yatırılmasından sonra, taşınmaz malın idare adına tesciline karar verilir.
+Kamulaştırma bedelinin zilyede verilmiş olması, o taşınmaz malda hak iddia edenlerin genel hükümler dairesinde zilyet aleyhine, bedele istihkak davası açmak hakkını düşürmez.
+**(Ek fıkra: 26/5/2004-5177/35 md.)** Başkası adına tapulu, sahipsiz ve/veya zilyedi tarafından iktisap edilmemiş yerin kamulaştırmasında binaların asgarî levazım bedeli, ağaçların ise [11 inci madde](#Madde-11--) çerçevesinde takdir olunan bedeli zilyedine ödenir.
+
+## **DÖRDÜNCÜ KISIM**
+## **Kamulaştırmada Boşaltma, Vazgeçme ve Geri Alma**
+
+### **BİRİNCİ BÖLÜM**
+### **Boşaltma**
+#### **Taşınmaz malın boşaltılması**
+##### **Madde 20 –**
+**(Değişik ibare: 24/4/2001 - 4650/12 md.)** Bu Kanun uyarınca lehine kamulaştırma yapılan idare adına tapu dairesince tescil edilen taşınmaz malın boşaltılması idarece icra memurundan istenir. İcra memuru taşınmaz malı onbeş gün içinde boşaltmalarını içindekilere tebliğ eder. Bu süre içinde taşınmaz mal boşaltılmazsa icraca boşaltılır. İtiraz ve şikayet boşaltmayı durdurmaz ve mahkemece ihtiyati tedbir kararı verilemez.[22]
+Taşınmaz malın boşaltılması sebebiyle mal sahibi ve idare tazminat ile sorumlu tutulamaz.
+Ekili arazinin boşaltılması hasat sonuna bırakılır. Hasat zamanının beklenmesi mümkün olmadığı hallerde kamulaştırmayı yapan idare, mahkemece takdir edilecek ekin bedelini tazmin etmek şartıyla, arazinin boşaltılmasını talep edebilir. Ekin bedeli [11](#Madde-11--) ve [12 nci madde](#Madde-12--)ler uyarınca yapılan kamulaştırma değerinin tespitinde nazara alınmış ise, taşınmaz malın boşaltılması için tekrar bu bedelin tespit ve ödenmesi gerekmez.
+
+### **İKİNCİ BÖLÜM**
+### **Kamulaştırmadan Vazgeçme ve Geri Alma**
+#### **İdarenin tek taraflı vazgeçmesi**
+##### **Madde 21 -**
+İdare kamulaştırmanın her safhasında kamulaştırma kararı veren ve onaylayan yetkili merciin kararı ile kamulaştırmadan tek taraflı olarak kısmen veya tamamen vazgeçebilir. Şu kadar ki, dava sırasında vazgeçme halinde dava giderleri ile harç, harcanan emek ve işin önemi gözetilerek mahkemece maktuen takdir olunacak avukatlık ücreti idareye yükletilir.
+
+#### **Vazgeçme, iade ve devir**
+##### **Madde 22 -**
+**(Değişik birinci fıkra: 24/4/2001 - 4650/13 md.)**
+Kamulaştırmanın (…)[24] kesinleşmesinden sonra taşınmaz malların kamulaştırma amacına veya kamu yararına yönelik herhangi bir ihtiyaca tahsisi lüzumu kalmaması halinde, keyfiyet idarece mal sahibi veya mirasçılarına 7201 sayılı Tebligat Kanunu hükümlerine göre duyurulur. **(Değişik ikinci ve üçüncü cümleler: 10/9/2014 - 6552/100 md.)** Bu duyurma üzerine mal sahibi veya mirasçıları, kamulaştırma bedelini aldıkları günden itibaren işleyecek kanuni faiziyle birlikte üç ay içinde ödeyerek taşınmaz malı geri alabilir. İade işleminin kamulaştırmanın ve bedelinin kesinleşmesinden sonra bir yıl içinde gerçekleşmesi hâlinde kamulaştırma bedelinin faizi alınmaz. **(Mülga dördüncü cümle: 10/9/2014-6552/100 md.)**
+**(Ek fıkra: 10/9/2014-6552/100 md.)** Bu madde hükümlerine göre taşınmaz malı geri almayı kabul etmeyen mal sahibi veya mirasçılarının 23 üncü maddeye göre geri alma hakları da düşer.
+**(Ek fıkra: 10/9/2014-6552/100 md.)** Bu madde hükümleri, kamulaştırmanın kesinleşmesi tarihinden itibaren beş yıl geçmiş olması hâlinde uygulanmaz.
+Ancak, kamulaştırılan taşınmaz mala kamulaştırmayı yapan idare dışında başka bir idare, kamulaştırma yoluyla gerçekleştirebileceği bir kamu hizmeti amacıyla istekli olduğu takdirde, yukarıdaki fıkra hükmü uygulanmayarak [bu Kanunun 30 uncu](#Madde-30--) veya 1050 sayılı Muhasebei Umumiye Kanununun 23 üncü maddesine göre işlem yapılır.
+
+#### **Mal sahibinin geri alma hakkı**
+##### **Madde 23 -**
+Kamulaştırma bedelinin kesinleşmesi tarihinden itibaren beş yıl içinde, kamulaştırmayı yapan idarece veya [22 nci madde](#Madde-22--)nin dördüncü fıkrası uyarınca devir veya tahsis yapılan idarece; kamulaştırma ve devir amacına uygun hiç bir işlem veya tesisat yapılmaz veya kamu yararına yönelik bir ihtiyaca tahsis edilmeyerek taşınmaz mal olduğu gibi bırakılırsa, mal sahibi veya mirasçıları kamulaştırma bedelini aldıkları günden itibaren işleyecek kanuni faiziyle birlikte ödeyerek, taşınmaz malını geri alabilir.[25]
+Doğmasından itibaren bir yıl içinde kullanılmayan geri alma hakkı düşer.
+**(Ek fıkra: 10/9/2014-6552/100 md.)** Birinci ve ikinci fıkrada belirtilen süreler geçtikten sonra kamulaştırılan taşınmaz malda hakları bulunduğu iddiasıyla eski malikleri veya mirasçıları tarafından idareden herhangi bir sebeple hak, bedel veya tazminat talebinde bulunulamaz ve dava açılamaz.
+Aynı amacın gerçekleşmesi için birden fazla taşınmaz mal birlikte kamulaştırıldığı takdirde bu taşınmaz malların durumunun bir bütün oluşturduğu kabul edilerek yukarıdaki fıkralar buna göre uygulanır.
+Özel kanunlarda bu maddenin uygulanmayacağına ilişkin hükümler saklıdır. [1164 sayılı Arsa Ofisi Kanunu](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1164&MevzuatTur=1&MevzuatTertip=5)na dayanılarak yapılan kamulaştırmalarda ve bu Kanunun [3 üncü madde](#Madde-3--)sinin 2 nci fıkrasında belirtilen hallerde yapılacak kamulaştırmalarda bu madde hükmü uygulanmaz.
+
+## **BEŞİNCİ KISIM**
+## **Hasar, Doğacak Hak ve Borçlar, Trampa Yolu ile ve Acele Kamulaştırma**
+
+### **BİRİNCİ BÖLÜM**
+### **Hasar**
+#### **Kamulaştırma bedelinden düşülebilecek hasar**
+##### **Madde 24 -**
+[21](#Madde-21--), [22](#Madde-22--) ve [23 üncü madde](#Madde-23--)ler uyarınca kamulaştırılmasından vazgeçilen veya geri alınan taşınmaz mal üzerindeki bina, sabit tesisler ve ekili dikili şeyler yıkılmış, sökülmüş veya harap olmuş ise, taşınmaz malın geri alınmasında mal sahibi veya mirasçısı, kamulaştırma tarihindeki değerine göre farkının, ödeyeceği kamulaştırma bedelinden düşülmesini isteyebilir.
+Bu madde ile [21](#Madde-21--), [22](#Madde-22--) ve [23 üncü madde](#Madde-23--)lerin uygulamasından doğacak anlaşmazlıklar adli yargıda çözümlenir.
+
+### **İKİNCİ BÖLÜM**
+### **Tebliğ ile Doğacak Haklar ve Borçlar**
+
