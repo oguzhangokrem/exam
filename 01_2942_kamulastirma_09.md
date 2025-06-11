@@ -274,4 +274,106 @@ Bu madde ile [21](#Madde-21--), [22](#Madde-22--) ve [23 üncü madde](#Madde-23
 
 ### **İKİNCİ BÖLÜM**
 ### **Tebliğ ile Doğacak Haklar ve Borçlar**
+#### **Trampa yolu ile kamulaştırma**
+##### **Madde 26 -**
+Mal sahibinin kabul etmesi halinde kamulaştırma bedeli yerine, idarenin kamu hizmetine tahsis edilmemiş olan taşınmaz mallarından, bu bedeli kısmen veya tamamen karşılayacak miktarı verilebilir.
+Kamulaştırma bedeli yerine verilecek taşınmaz malın değeri, idarenin ihale komisyonunca yoksa bu amaçla kuracağı bir komisyonca tespit edilir. Taşınmaz mal bedelleri arasındaki fark taraflarca nakit olarak karşılanır. Ancak idarenin vereceği taşınmaz malın değeri, kamulaştırma bedelinin yüzde yüzyirmisini aşamaz.
+
+#### **Acele kamulaştırma**
+##### **Madde 27 -**
+[3634 sayılı Milli Müdafaa Mükellefiyeti Kanunu](https://mevzuat.gov.tr/mevzuat?MevzuatNo=3634&MevzuatTur=1&MevzuatTertip=3)nun uygulanmasında yurt savunması ihtiyacına veya aceleliğine Cumhurbaşkanınca karar alınacak hallerde veya özel kanunlarla öngörülen olağanüstü durumlarda gerekli olan taşınmaz malların kamulaştırılmasında kıymet takdiri dışındaki işlemler sonradan tamamlanmak üzere ilgili idarenin istemi ile mahkemece yedi gün içinde o taşınmaz malın **(Değişik ibare: 24/4/2001 - 4650/15 md.)** [10 uncu madde](#Madde-10--) esasları dairesinde ve [15 inci madde](#Madde-15--) uyarınca seçilecek bilirkişilerce tespit edilecek değeri, idare tarafından mal sahibi adına **(Değişik ibare: 24/4/2001 - 4650/15 md.)** [10 uncu madde](#Madde-10--)ye göre yapılacak davetiye ve ilanda belirtilen bankaya yatırılarak o taşınmaz mala el konulabilir.
+**(Ek fıkra: 19/4/2018-7139/29 md.)** Mahkemece verilen taşınmaz mala el koyma kararı tapu müdürlüğüne bildirilir. Taşınmaz malın başkasına devir, ferağ veya temlikinin yapılamayacağı hükmü tapu kütüğüne şerh edilir. El koyma kararından sonra taşınmaz mal [20 nci madde](#Madde-20--) uyarınca boşaltılır.
+Bu Kanunun [3 üncü madde](#Madde-3--)sinin 2 nci fıkrasında belirtilen hallerde yapılacak kamulaştırmalarda yatırılacak miktar, ödenecek ilk taksit bedelidir.
+
+## **ALTINCI KISIM**
+## **Bedelsiz Kullanma, Giderlerin Ödenmesi ve İdareler Arasında Taşınmaz Mal Devri**
+
+### **BİRİNCİ BÖLÜM**
+### **Bedelsiz Kullanma ve Giderler**
+#### **Bedelsiz kullanma yetkisi**
+##### **Madde 28 -**
+Milli savunma inşaat ve tesisatı için gerekli görülen gerçek ve özel hukuk tüzelkişilerinin mülkiyet ve tasarrufunda veya ruhsatname ile intifaları altında bulunmayan kireç, taş ve kum ocaklarını, hiç bir resim ve ücrete tabi olmadan kullanmaya Milli Savunma Bakanlığı yetkilidir.
+Bayındırlık, Köy İşleri ve Kooperatifler bakanlıkları ile T.C. Devlet Demiryolları İşletmesi Genel Müdürlüğü, Karayolları Genel Müdürlüğü ve Devlet Su İşleri Genel Müdürlüğü de aynı sebep ve şartlarla, demiryolu hattının veya karayolunun veya su tesislerinin her yönündeki, gerçek ve özel hukuk tüzelkişilerinin mülkiyet ve tasarrufunda veya ruhsatname ile intifaları altında bulunmayan kireç, taş ve kum ocaklarını hiç bir resim ve ücrete tabi olmadan kullanabilirler.
+
+#### **Giderlerin ödenmesi**
+##### **Madde 29 -**
+**(Değişik: 24/4/2001 - 4650/16 md.)**
+[10 uncu madde](#Madde-10--) uyarınca mahkeme heyetinin harcırahları, [15 inci madde](#Madde-15--) uyarınca mahkemece oluşturulan bilirkişilerin ve keşifte dinlenilen muhtarın mahkemece takdir edilecek ücretleri ile, tapu harçları ve bu Kanunun gerektirdiği diğer giderler kamulaştırmayı yapan idarece ödenir.
+
+### **İKİNCİ BÖLÜM**
+### **Kamu Kurumları ve Tüzelkişileri Arasında Taşınmaz Mal Devri**
+#### **Bir idareye ait taşınmaz malın diğer idareye devri**
+##### **Madde 30 -**
+**(Değişik: 24/4/2001 - 4650/17 md.)**
+Kamu tüzelkişilerinin ve kurumlarının sahip oldukları taşınmaz mal, kaynak veya irtifak hakları diğer bir kamu tüzelkişisi veya kurumu tarafından kamulaştırılamaz.
+Taşınmaz mala; kaynak veya irtifak hakkına ihtiyacı olan idare, [8 inci madde](#Madde-8--) uyarınca bedeli tespit eder. Bu bedel esas alınarak ödeyeceği bedeli de belirterek mal sahibi idareye yazılı olarak başvurur. Mal sahibi idare devire muvafakat etmez veya altmış gün içinde cevap vermez ise anlaşmazlık, alıcı idarenin başvurusu üzerine Danıştay ilgili idari dairesince incelenerek iki ay içinde kesin karara bağlanır.
+Taraflar bedelde anlaşamadıkları takdirde; alıcı idare, devirde anlaşma tarihinden veya Danıştay kararının tebliği tarihinden itibaren otuz gün içinde, [10 uncu madde](#Madde-10--)de yazılı usule göre mahkemeye başvurarak, kamulaştırma bedelinin tespitini ister. Bu durumda yapılacak yargılamada mahkemece, [29/6/1938 tarihli ve 3533 sayılı Kanun](https://mevzuat.gov.tr/mevzuat?MevzuatNo=3533&MevzuatTur=1&MevzuatTertip=3) hükümleri uygulanmaz.
+Mahkemece, [10 uncu madde](#Madde-10--)de öngörülen usule göre kamulaştırma bedeli olarak tespit edilen miktarın, peşin ve nakit olarak mal sahibi idareye verilmek üzere belirleyeceği bir bankaya yatırılması ve yatırıldığına dair makbuzun ibraz edilmesi için alıcı idareye onbeş gün süre verilir. Gereken hallerde bu süre bir defaya mahsus olmak üzere uzatılabilir. Alıcı idare tarafından kamulaştırma bedelinin mal sahibi idare adına bankaya yatırıldığına dair makbuzun ibrazı halinde mahkemece, taşınmaz malın alıcı idare adına tesciline ve kamulaştırma bedelinin mal sahibi idareye ödenmesine karar verilir ve bu karar, tapu dairesine ve paranın yatırıldığı bankaya bildirilir. Tescil hükmü kesin olup tarafların bedele ilişkin temyiz hakları saklıdır.
+Bu suretle devir alınan taşınmaz mal, kaynak veya irtifak hakkı, sahibinden kamulaştırma yolu ile alınmış sayılır ve devir amacı veya devreden idarenin izni dışında başkaca bir kamusal amaçla kullanılamaz. Aksi takdirde devreden idare, [23 üncü madde](#Madde-23--) uyarınca taşınmaz malı geri alabilir. Bu husus tapu kütüğünün beyanlar hanesine şerh verilir.
+**(Ek fıkra: 20/8/2016-6745/32 md.)** İçişleri Bakanlığının güvenlik gerekçesiyle ihtiyaç duyduğu, kamu kurum ve kuruluşları, belediyeler ve il özel idareleri dâhil mahalli idareler ve diğer kamu tüzel kişilerine ait taşınmazlar, kaynak veya irtifak hakları, Cumhurbaşkanı kararıyla resen Hazine adına tescil ve İçişleri Bakanlığına tahsis edilir. Taşınmazın bedeli, tescil işleminden itibaren altmış gün içinde bu Kanunun [11 inci madde](#Madde-11--)sinde belirtilen kriterler de dikkate alınmak suretiyle valiliklerce resen tespit edilir. Bedele ilişkin itirazlar Danıştaya yapılır. İtirazlar tescil işlemini durdurmaz. Mahkemelerce ihtiyati tedbir ve yürütmenin durdurulması kararları verilemez, [3533 sayılı Kanun](https://mevzuat.gov.tr/mevzuat?MevzuatNo=3533&MevzuatTur=1&MevzuatTertip=3) hükümleri uygulanmaz. Bu taşınmazlara ilişkin olarak ihtiyaç duyulan imar planı değişiklikleri Çevre ve Şehircilik Bakanlığınca resen yapılır veya yaptırılır.[29]
+
+## **YEDİNCİ KISIM**
+## **Yasak İşler ve Ceza Hükümleri**
+
+### **BİRİNCİ BÖLÜM**
+### **Yasak İşler**
+#### **Yasak işler ve eylemler**
+##### **Madde 31 -**
+**(Değişik: 24/4/2001 - 4650/18 md.)**
+Aşağıda yazılı işler ve eylemler yasaktır.
+- a) [15 inci madde](#Madde-15--) uyarınca oluşturulan bilirkişilerin, kendilerine mahkemece takdir edilen ücret dışında herhangi bir suretle çıkar sağlamaları,
+- b) Mahkemece [10 uncu madde](#Madde-10--) uyarınca yapılan tebligat, davet veya ilanen tebliğden sonra taşınmaz malın başkasına devir ve ferağ veya temliki.
+- c) Dava giderlerinin avukat veya dava vekilleri veya onlar adına hareket edenler tarafından kabullenilmesi.
+- d) Kamulaştırma bedelinin tamamının veya bir kısmının nakden veya başka bir şekilde, avukat veya dava vekili veya onlar adına hareket edenler tarafından mal sahibine önceden ödenmesi.
+- e) Kamulaştırma bedelinin tamamının veya bir kısmının avukat veya dava vekili veya onlar adına hareket edenlere ait olacağının kararlaştırılması.
+- f)Yukarıda yazılı bentlerde yasaklanan fiillerin avukat veya dava vekillerince bizzat veya aracı ile mal sahibine teklif edilmesi veya bunlara yardımcı olunması.
+### **İKİNCİ BÖLÜM**
+### **Görevli Kişilerin Suçları ve Ceza Hükümleri**
+#### **Görevli kişilerin suçları**
+##### **Madde 32 -**
+Bu Kanuna göre görevlendirilenlerden suç işleyenler, Devlet memuru gibi cezalandırılırlar. Şu kadar ki verilecek cezalar; o suç için muayyen olan cezanın yarısından az olmamak üzere iki katına kadar artırılır.
+
+#### **Cezalar**
+##### **Madde 33 -**
+**(Değişik: 24/4/2001 - 4650/19 md.)**
+Fiilleri daha ağır cezayı gerektiren ayrı bir suç teşkil etmediği takdirde, bu Kanunun [31 inci madde](#Madde-31--)sinin (a) bendine aykırı hareket edenler iki yıldan aşağı olmamak üzere hapis ve iki milyar liradan dört milyar liraya kadar; (d), (e) ve (f) bentlerine aykırı hareket edenler ise, bir yıldan aşağı olmamak üzere hapis ve beşyüz milyon liradan bir milyar liraya kadar ağır para cezasıyla, (b) ve (c) bentlerine aykırı hareket edenler, altı aydan iki yıla kadar hapis ve ikiyüz milyon liradan dörtyüz milyon liraya kadar ağır para cezasıyla cezalandırılırlar. Bu maddedeki para cezaları her yıl 1/3/1926 tarihli ve 765 sayılı Türk Ceza Kanununun ek 2 nci maddesi hükümleri uyarınca artırılır.
+
+## **SEKİZİNCİ KISIM**
+## **Çeşitli Hükümler**
+#### **Mal sahibinin sağladığı yararları geri alma hakkı**
+##### **Madde 34 -**
+Mal sahiplerinin [31 inci madde](#Madde-31--)deki yasaklara rağmen avukat veya dava vekillerine veya bu Kanuna göre görevlendirilenlere veya üçüncü şahıslara verdikleri paraları veya sağladıkları yararlar karşılığını bir yıl içinde geri almaya hakları vardır.
+
+#### **İmar mevzuatı uygulanan veya özel parselasyon yapılan yerler:**
+##### **Madde 35 -**
+İmar mevzuatı gereğince düzenlemeye tabi tutulan parsellerden düzenleme ortaklık payı karşılığı olarak bir defaya mahsus alınan yol, yeşil saha ve bunun gibi kamu hizmet ve tesislerine ayrılan yerlerle, özel parselasyon sonunda malikinin muvafakatı ile kamu hizmet ve tesisleri için ayrılmış bulunan yerler için eski malikleri tarafından mülkiyet iddiasında bulunulamaz ve karşılığı istenemez.
+
+#### **Kamulaştırmadan sonra alınan tapu kaydının iptali**
+##### **Madde 36 -**
+Kamulaştırma kanunları uyarınca gerekli işlemler tamamlanıp tapuda kayıtlı olanların idare adına intikallerinin yapılmasından, tapuda kayıtlı olmayanların tescillerinin sağlanmasından sonra, kamulaştırılan yer için herhangi bir nedenle gerçek ve tüzelkişiler adına yeniden tapu tesis edildiği takdirde, idarenin isteği üzerine hakim, evrak üzerinde ve lüzum gördüğü takdirde mahallinde inceleme yaparak sonraki kaydın iptali hakkında bir karar verir.
+Bu işlemler harca ve resme bağlı değildir.
+
+#### **Yetkili ve görevli mahkeme ve yargılama usulü**
+##### **Madde 37 -**
+Bu Kanundan doğan tüm anlaşmazlıkların adli yargıda çözümlenmesi gerekenleri, taşınmaz malın bulunduğu yer asliye hukuk mahkemelerinde basit yargılama usulü ile görülür.
+
+#### **Hak düşürücü süre**
+##### **Madde 38 -**
+**(İptal: [Anayasa Mahkemesinin 10/4/2003 tarihli ve E.2002/112, K.2003/33 sayılı kararı](https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2003/33?EsasNo=2002%2F112&KararNo=2003%2F33) ile)**
+
+#### **Vergilendirme**
+##### **Madde 39 -**
+**(Değişik: 24/4/2001 - 4650/20 md.)**
+Kamulaştırılan taşınmazın kamulaştırıldığı yıla ait emlak vergisi tarhına esas olan vergi değeri, kesinleşen kamulaştırma bedelinden az olduğu takdirde, kamulaştırma bedeli ile vergi değeri arasındaki fark üzerinden, cezalı emlak vergisi tarh olunur.
+Emlak vergisi beyannamesinin ek süreye rağmen verilmemiş olması halinde, kesinleşen kamulaştırma bedeli, kamulaştırmanın yapıldığı yıla ait vergi değeri yerine geçer ve bu değer üzerinden cezalı emlak vergisi tarhiyatı yapılır.
+
+#### **Kaldırılan ve saklı tutulan hükümler**
+##### **Madde 40 -**
+31/8/1956 tarih ve 6830 sayılı İstimlak Kanunu ile ek ve değişiklikleri, 8/7/1981 tarih ve 2487 sayılı Toplu Konut Kanununun 5 inci maddesi ile 21/1/1982 tarih ve 2587 sayılı Kanunun geçici 2 nci maddesinin kamulaştırılan taşınmaz malın değerinin tespitine ilişkin hükümleri yürürlükten kaldırılmıştır.
+7/3/1954 tarih ve 6326 sayılı Petrol Kanunu ve değişiklikleri, 15/4/1955 tarih ve 6538 sayılı İstanbul Kapalı çarşısının Tamir ve İhyası Hakkında Kanun hükümleri ile diğer özel kanunlardaki kamulaştırmaya ilişkin hükümler saklıdır.
+
+#### **İstimlak Kanununa yapılan atıflar**
+##### **Madde 41 -**
+Diğer kanunlarda İstimlak Kanununa veya belli maddelerine yapılan atıflar bu Kanuna veya bu Kanunun aynı konuları düzenleyen madde veya maddelerine yapılmış sayılır.
+
 

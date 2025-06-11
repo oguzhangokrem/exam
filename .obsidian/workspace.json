@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "530f73f220618922",
+        "id": "961547918a933f99",
         "type": "tabs",
         "children": [
           {
-            "id": "c4aa841907627c77",
+            "id": "48f8748fe8b12279",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,8 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4aa841907627c77",
+  "active": "48f8748fe8b12279",
   "lastOpenFiles": [
+    "().md",
+    "01_2942_kamulastirma_09.md",
+    "todolist.md",
     "06_resmi_yazisma_05.md",
     "07_etik_03.md",
     "02_6698_kvkk_04.md",
