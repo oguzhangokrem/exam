@@ -376,4 +376,93 @@ Emlak vergisi beyannamesinin ek süreye rağmen verilmemiş olması halinde, kes
 ##### **Madde 41 -**
 Diğer kanunlarda İstimlak Kanununa veya belli maddelerine yapılan atıflar bu Kanuna veya bu Kanunun aynı konuları düzenleyen madde veya maddelerine yapılmış sayılır.
 
+##### **Ek Madde 1-**
+**(Ek: 20/8/2016-6745/33 md.)**
+Uygulama imar planlarında umumi hizmetlere ve resmî kurumlara ayrılmak suretiyle mülkiyet hakkının özüne dokunacak şekilde tasarrufu hukuken kısıtlanan taşınmazlar hakkında, uygulama imar planlarının yürürlüğe girmesinden itibaren beş yıllık süre içerisinde imar programları veya imar uygulamaları yapılır ve bütçe imkânları dâhilinde bu taşınmazlar ilgili idarelerce kamulaştırılır veya her hâlde mülkiyet hakkını kullanmasına engel teşkil edecek kısıtlılığı kaldıracak şekilde imar planı değişikliği yapılır/yaptırılır. **(İptal cümle: [Anayasa Mahkemesinin 20/12/2018 tarihli ve E.: 2016/181 K.: 2018/111 sayılı Kararı](https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2018/111?EsasNo=2016%2F181&KararNo=2018%2F111) ile) (Ek cümle:16/11/2022-7421/3 md.)** Bu süre içinde belirtilen işlemlerin yapılmaması halinde taşınmazların malikleri tarafından mülkiyet hakkından kaynaklı bedele ilişkin açılacak davalar, adli yargıda görülür.[30]
+**(İptal ikinci fıkra: [Anayasa Mahkemesinin 20/12/2018 tarihli ve E.: 2016/181 K.: 2018/111 sayılı Kararı](https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2018/111?EsasNo=2016%2F181&KararNo=2018%2F111) ile)**
+
+**(İptal üçüncü fıkra: [Anayasa Mahkemesinin 20/12/2018 tarihli ve E.: 2016/181 K.: 2018/111 sayılı Kararı](https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2018/111?EsasNo=2016%2F181&KararNo=2018%2F111) ile)**
+
+**(İptal dördüncü fıkra: [Anayasa Mahkemesinin 20/12/2018 tarihli ve E.: 2016/181 K.: 2018/111 sayılı Kararı](https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2018/111?EsasNo=2016%2F181&KararNo=2018%2F111) ile)**
+
+##### **Ek Madde 2-**
+**(Ek:21/12/2019-7201/5 md.)**
+[29/4/1969 tarihli ve 1164 sayılı Arsa Üretimi ve Değerlendirilmesi Hakkında Kanun](https://mevzuat.gov.tr/mevzuat?MevzuatNo=1164&MevzuatTur=1&MevzuatTertip=5) kapsamında 8/12/2004 tarihinden önce yapılmış olan kamulaştırma ve avans karşılığı kamulaştırma iş ve işlemlerine ilişkin davalar, Çevre ve Şehircilik Bakanlığı aleyhine açılır. Avans karşılığı kamulaştırmalarda rücu davalarını Bakanlık açar, takip eder ve sonuçlandırır. Bakanlık bu davalarda davalı ve davacı olabilir.
+
+##### **Ek Madde 3-**
+**(Ek:21/12/2019-7201/6 md.)**
+Mülga 31/8/1956 tarihli ve 6830 sayılı İstimlâk Kanununun 16 ncı ve 17 nci maddeleri ile bu Kanunun mülga [16 ncı](#Madde-16--) ve [17 nci madde](#Madde-17-11)leri uyarınca kesinleşmiş mahkeme kararlarına istinaden idareler adına tescil edilen taşınmazların eski malikleri adına kamu bankalarına yatırılan ancak hak sahiplerine ödenmediği tespit edilen kamulaştırma bedelleri nedeniyle idareler aleyhine açılacak her türlü davada değer; taşınmazın idare adına tescil edildiği tarih, değerleme tarihi olarak esas alınmak ve o tarihteki nitelikleri gözetilmek suretiyle tespit edilir. Tespit edilen bu bedel, Türkiye İstatistik Kurumu tarafından açıklanan Yurt İçi Üretici Fiyat Endeksi (Yİ-ÜFE) tablosundaki aylık değişim oranları esas alınmak suretiyle **(İptal ibare: [Anayasa Mahkemesinin 4/5/2023 Tarihli ve E: 2019/93, K: 2023/87 Sayılı Kararı](https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2023/87?EsasNo=2019%2F93&KararNo=2023%2F87) ile)** güncellenir ve ortaya çıkan bedel hak sahibine ödenir. **(Ek cümle:9/6/2021-7327/20 md.)** Bu hüküm, tebliği dâhil eksik veya hatalı kamulaştırma işlemleri bulunmasına rağmen idare adına tescil edilmiş olan taşınmazlar hakkında da uygulanır.
+**(Ek fıkra:16/11/2022-7421/4 md.)** Mülga 6830 sayılı Kanunun 16 ncı ve 17 nci maddeleri ile bu Kanunun mülga 16 ncı ve 17 nci maddeleri uyarınca kesinleşmiş mahkeme kararlarına istinaden idareler adına tescil edilen taşınmazların kamulaştırılması için kamulaştırma bedellerinin eski malikleri adına kamu bankalarına yatırılması ve hak sahiplerine ödenmesi halinde, tebliği dâhil eksik veya hatalı kamulaştırma işlemleri, kamulaştırma bedelinin ödendiği tarih itibarıyla kesinleşmiş kabul edilir. Bu hüküm, tebliği dâhil eksik veya hatalı kamulaştırma işlemleri bulunmasına rağmen idare adına tescil edilmiş olan taşınmazlar hakkında da uygulanır.
+
+##### **Ek Madde 4-**
+**(Ek:16/11/2022-7421/5 md.)**
+Bu Kanun uyarınca mahkemelerce hükmedilen bedel, tazminat, vekâlet ücreti ve yargılama giderleri, davacının veya vekilinin davalı idareye yazılı şekilde bildireceği banka hesap numarasına, bu bildirim tarihinden itibaren, otuz gün içinde yatırılır. Bu süre içinde ödeme yapılmaması halinde, genel hükümler dairesinde icra olunur.
+Bu Kanun uyarınca yapılacak icra takiplerinde idare, [9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu](https://mevzuat.gov.tr/mevzuat?MevzuatNo=2004&MevzuatTur=1&MevzuatTertip=3)nun 36 ncı maddesi uyarınca icranın geri bırakılmasını talep ederse idarenin teminat gösterme zorunluluğu yoktur.
+Bu Kanun kapsamında açılan davalarda verilen bedel ve tazminat kararlarına ilişkin mahkeme ve icra harçları, davalı idare tarafından ödenmek üzere maktu olarak belirlenir.
+
+##### **Geçici Madde 1 -**
+Bu Kanunun yürürlüğe girmesinden önce verilmiş olan kamu yararı ve kamulaştırma kararları geçerlidir. Ancak, idarece henüz kıymet takdir edilmemiş olan işlerde, kıymet takdir işlemleri ile sonraki işlemler bu Kanun hükümlerine göre yapılır.
+Bu Kanunun yürürlüğe girmesinden önce açılmış ve henüz kesin hükme bağlanmamış davalarda bu Kanun hükümleri uygulanır. Ancak bu Kanunla getirilen değişik hükümlerin uygulanması nedeniyle haksız çıkan tarafa harç, yargılama gideri ve avukatlık ücreti yükletilemez.
+
+##### **Geçici Madde 2 -**
+Bu Kanunun yürürlüğe girmesinden önce açılan davalarda, davanın açıldığı günde yürürlükte olan kanunlara göre işlemeye başlamış olan dava süreleri, o kanunlara göre tespit edilir.
+
+##### **Geçici Madde 3 -**
+Bu Kanunun yürürlüğe girmesinden önce kamulaştırılmış ve kamulaştırma bedelinin kesinleşmesi dört yılı tamamlamış taşınmaz mal hakkında [22 nci madde](#Madde-22--) hükmüne göre işlem yapılmış veya yapılacak olması halinde, idarelere bu Kanunun yürürlüğünden itibaren 2 yıllık ek süre hakkı tanınır.
+Mal sahibinin geri alma hakkı ancak bu sürenin tamamlanmasından sonra doğar.
+
+##### **Geçici Madde 4 -**
+[5 Ocak 1961 tarih ve 221 sayılı Kanun](https://mevzuat.gov.tr/mevzuat?MevzuatNo=221&MevzuatTur=1&MevzuatTertip=4)un kapsamına girmeleri nedeniyle kamu tüzelkişileri veya kurumları adına kamulaştırılmış sayılan taşınmaz malların eski malik, zilyed veya bunların halefleri tarafından açılmış ve kesin hükme bağlanmamış davalarda sözü edilen [221 sayılı Kanun](https://mevzuat.gov.tr/mevzuat?MevzuatNo=221&MevzuatTur=1&MevzuatTertip=4)un hükümleri uygulanır.
+
+##### **Geçici Madde 5 -**
+**(Ek: 24/4/2001 - 4650/21 md.)**
+Bu Kanunun değişik [15 inci madde](#Madde-15--)sinde öngörülen yönetmelik çıkarılıncaya kadar bilirkişiler önceki hükme göre seçilir.
+
+#### **Kamulaştırılmaksızın kamu hizmetine ayrılan taşınmazların bedel tespiti**
+##### **Geçici Madde -**
+**(Ek: 18/6/2010-5999/1 md.; Değişik: 24/5/2013-6487/ 21 md.)**
+Kamulaştırma işlemleri tamamlanmamış veya kamulaştırması hiç yapılmamış olmasına rağmen 9/10/1956 tarihi ile 4/11/1983 tarihi arasında fiilen kamu hizmetine ayrılan veya kamu yararına ilişkin bir ihtiyaca tahsis edilerek üzerinde tesis yapılan taşınmazlara veya kaynaklara kısmen veya tamamen veyahut irtifak hakkı tesis etmek suretiyle malikin rızası olmaksızın fiili olarak el konulması sebebiyle, mülkiyet hakkından doğan talepler, bedel talep edilmesi hâlinde bedel tespiti ve diğer işlemler bu madde hükümlerine göre yapılır. Bu maddeye göre yapılacak işlemlerde öncelikle uzlaşma usulünün uygulanması dava şartıdır.
+İdarenin daveti veya malikin müracaatı üzerine, fiilen el konulan taşınmazın veya üzerinde tesis edilen irtifak hakkının idarenin daveti veya malikin müracaat ettiği tarihteki tahmini değeri; bu Kanunun [8 inci madde](#Madde-8--)sinin ikinci fıkrasına göre teşkil edilen kıymet takdir komisyonu marifetiyle, taşınmazın el koyma tarihindeki nitelikleri esas alınmak ve bu Kanunun [11 inci](#Madde-11) ve [12 nci madde](#Madde-12--)lerine göre hesaplanmak suretiyle tespit edilir. Tespitten sonra, bu Kanunun [8 inci madde](#Madde-8--)sinin üçüncü fıkrasına göre teşkil olunan uzlaşma komisyonunca, idarenin daveti veya malikin müracaat tarihinden itibaren en geç altı ay içinde [7201 sayılı Kanun](https://mevzuat.gov.tr/mevzuat?MevzuatNo=7201&MevzuatTur=1&MevzuatTertip=3) hükümlerine göre tebliğ edilen bir yazı ile, tahmini değer bildirilmeksizin, talep sahibi uzlaşma görüşmelerine davet edilir.
+Uzlaşma; idareye ait taşınmazın trampası, idareye ait taşınmaz üzerinde sınırlı ayni hak tanınması veya imar mevzuatı çerçevesinde başka bir yerde imar hakkı kullandırılması suretiyle veya bunların mümkün olmaması hâlinde nakdi bedel üzerinden yapılabilir.
+Uzlaşma görüşmeleri, hukuki veya fiili engel bulunmadığı takdirde davete icabet tarihinden itibaren en geç altı ay içinde sonuçlandırılır ve uzlaşmaya varılıp varılmadığı, malik veya temsilcisi ile komisyon üyeleri tarafından imzalanan bir tutanağa bağlanır. Bu tutanak ile uzlaşma görüşmelerine ilişkin bilgi ve belgeler, açılacak davalarda taraflar aleyhine delil teşkil etmez. Uzlaşmaya varılması hâlinde, üzerinde uzlaşılan hakkın türünü, tanınma şart ve usullerini, nakdi ödemede bulunulacak ise miktarını ve ödeme şartları ile taşınmazların tesciline veya terkinine dair muvafakati de ihtiva eden bir sözleşme akdedilerek bu sözleşme çerçevesinde işlem yapılır ve uzlaşma konusu taşınmazlar resen tapuya tescil veya terkin edilir.
+Uzlaşılan bedel, bütçe imkanları dâhilinde sonraki yıllara sâri olacak şekilde taksitli olarak da ödenebilir. Taksitli ödeme süresince, [4/12/1984 tarihli ve 3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin Kanun](https://mevzuat.gov.tr/mevzuat?MevzuatNo=3095&MevzuatTur=1&MevzuatTertip=5)a göre ayrıca kanuni faiz ödenir.
+İdare ve malik arasında uzlaşma sağlanamadığı takdirde, uzlaşmazlık tutanağının tanzim edildiği tarihten itibaren üç ay içinde malik veya idare tarafından bedel tespiti davası açılabilir. Dava açılması hâlinde, fiilen el konulan taşınmazın veya üzerinde tesis edilen irtifak hakkının dava tarihindeki değeri, ikinci fıkranın birinci cümlesindeki esaslara göre mahkemece bu Kanunun [15 inci madde](#Madde-15--)sine göre bilirkişi incelemesi yapılmak suretiyle tespit ve taşınmazın veya hakkın idare adına tesciline veya terkinine hükmedilir. Tespit edilen bedel, bu maddenin sekizinci fıkrasına göre idarece ödenir. Tescile veya terkine ilişkin hüküm kesin olup tarafların hükmedilen bedele ilişkin temyiz hakkı saklıdır.
+Bu madde kapsamında açılan davalarda mahkeme ve icra harçları ile her türlü vekalet ücretleri bedel tespiti davalarında öngörülen şekilde maktu olarak belirlenir.
+Kesinleşen mahkeme kararlarına istinaden bu madde uyarınca ödemelerde kullanılmak üzere, ihtiyaç olması hâlinde, merkezi yönetim bütçesine dâhil idarelerin yılı bütçelerinde sermaye giderleri için öngörülen ödeneklerinin (Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı bütçelerinin güvenlik ve savunmaya yönelik mal ve hizmet alımları ile yapım giderleri için ayrılan ödeneklerin) yüzde ikisi, belediye ve il özel idareleri ile bağlı idareleri için en son kesinleşmiş bütçe gelirleri toplamının, diğer idareler için en son kesinleşmiş bütçe giderleri toplamının en az yüzde ikisi oranında yılı bütçelerinde pay ayrılır. Kesinleşen alacakların toplam tutarının ayrılan ödeneğin toplam tutarını aşması hâlinde, ödemeler, sonraki yıllara sâri olacak şekilde, garameten ve taksitlerle gerçekleştirilir. Taksitlendirmede, bütçe imkanları ile alacakların tutarları dikkate alınır. Taksitli ödeme süresince, [3095 sayılı Kanun](https://mevzuat.gov.tr/mevzuat?MevzuatNo=3095&MevzuatTur=1&MevzuatTertip=5)a göre ayrıca kanuni faiz ödenir. İdare tarafından, mahkeme kararı gereğince nakdi ödeme yerine, üçüncü fıkrada belirtilen diğer uzlaşma yolları da teklif edilebilir ve bu maddenin uzlaşmaya ilişkin hükümlerine göre işlem yapılabilir.
+Bu maddenin bedele ilişkin hükümleri, vuku bulduğu tarih itibarı ile bu maddenin kapsamında olan kamulaştırmasız el koymadan dolayı açtıkları tazminat davası süre bakımından dava hakkının düştüğü gerekçesiyle reddedilmiş olanlar hakkında da uygulanır. Evvelce açtıkları davalar sonunda tazminat almaya hak kazanmış veya süre dışındaki sebeplerden dolayı davaları reddedilmiş olanlar hakkında bu madde hükümleri uygulanmaz. Ancak, gerek iç hukuka ve gerekse milletlerarası hukuka göre evvelce açtıkları davalar sonunda hak kazanmış oldukları tazminat henüz ödenmemiş olanlara, idare tarafından nakdi ödeme yerine, üçüncü fıkrada belirtilen diğer uzlaşma yolları teklif edilebilir ve bu maddenin uzlaşmaya ilişkin hükümlerine göre işlem yapılabilir.
+Vuku bulduğu tarih itibarı ile bu maddenin kapsamında olan kamulaştırmasız el koymadan dolayı bu maddenin yürürlüğe girmesinden önce tazmin talebiyle dava açmış olanlar; bu madde hükümlerine göre uzlaşma yoluna gitmeyi isteyip istemediklerini bu maddenin yürürlüğe girmesinden itibaren üç ay içinde idareye ve mahkemeye verecekleri dilekçeler ile bildirebilirler. Uzlaşma talebi üzerine, uzlaşma görüşmelerinin neticesine kadar dava bekletilir; uzlaşılamaması hâlinde, uzlaşmazlık tutanağının mahkemeye sunulmasından sonra davaya devam edilir. **(Mülga üçüncü cümle: 20/8/2016-6745/34 md.)** Bu madde hükümleri karara bağlanmamış veya kararı kesinleşmemiş tüm davalara uygulanır. Kararı kesinleşen davalara ise, bu maddenin yalnızca sekizinci fıkra hükümleri uygulanır.
+Bu madde uyarınca ödenecek olan bedelin tahsili sebebiyle idarelerin mal, hak ve alacakları haczedilemez.
+**(İptal onikinci fıkra: [Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.: 2013/95, K.: 2014/176 sayılı Kararı](https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2014/176?EsasNo=2013%2F95&KararNo=2014%2F176) ile.)**
+**(İptal onüçüncü fıkra: [Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.: 2013/95, K.: 2014/176 sayılı Kararı](**(İptal onüçüncü fıkra: Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.: 2013/95, K.: 2014/176 sayılı Kararı ile.)**) ile.)**
+**(Ek fıkra: 3/11/2016-6754/40 md.)** Bu madde uyarınca açılacak davalarda [15 inci madde](#Madde-15--)de düzenlenen bilirkişiliğe ilişkin hükümler uygulanır.
+
+##### **Geçici Madde 7 –** 
+**(Ek: 24/5/2013-6487/ 22 md.; İptal; Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.: 2013/95, K.: 2014/176 sayılı Kararı ile)**[32]
+
+##### **Geçici Madde 8 –** 
+**(Ek: 12/7/2013-6495/28 md.)**
+Bu Kanunun [22 nci madde](#Madde-22--)sinin birinci fıkrasının son cümlesi hükmü, bu maddenin yürürlüğe girdiği tarihten önce gerçekleştirilen kamulaştırma işlemleri nedeniyle, kamulaştırılan taşınmazların eski malikleri veya mirasçıları tarafından bu taşınmazların geri alınması, bedel veya tazminat talebiyle açılan ve henüz kesinleşmeyen davalarda da uygulanır.
+
+##### **Geçici Madde 9 –** 
+**(Ek: 10/9/2014-6552/101 md.)**
+Bu maddeyi ihdas eden Kanunla değiştirilen veya eklenen bu Kanunun (…)[33] 23 üncü maddesinin üçüncü fıkrası hükmü; bu maddenin yürürlüğe girdiği tarihten önce gerçekleştirilen kamulaştırma işlemleri nedeniyle, kamulaştırılan taşınmaz malların eski malikleri veya mirasçıları tarafından bu taşınmaz malların geri alınması, bedel veya tazminat talebiyle açılan ve henüz kesinleşmeyen davalarda da uygulanır. Bu maddenin uygulanması nedeniyle reddedilen davaların yargılama giderleri davalı idare tarafından ödenir.
+
+##### **Geçici Madde 10 –** 
+**(Ek: 4/4/2015-6645/12 md.)**
+Bu maddenin yürürlüğe girdiği tarih itibarıyla kamulaştırma nedeniyle idarece ödenmiş olan ancak kesinleşen yargı kararları gereği geri ödenmesi gereken kamulaştırma bedelinin; borçlusuna bu maddenin yürürlüğe girdiği tarihten önce idarece tebliğ edilmiş olması hâlinde bu Kanunun yayımını izleyen aydan başlamak üzere altı ay içinde, tebliğ edilmemiş olması hâlinde ilgilisine tebliğ tarihinden itibaren üç ay içinde ödenmesi şartıyla kamulaştırma bedeliyle birlikte ödenmesi gereken faizin tahsilinden vazgeçilir. Şu kadar ki, bu maddenin yürürlüğe girdiği tarihten sonra yapılacak tebligatlarda ödeme için verilen üç aylık sürenin bu maddede yer alan altı aylık sürenin içinde kalması hâlinde üç aylık süre altı aylık sürenin bitim tarihine kadar uzar. Bu madde hükmünden yararlanan şahıslar bu konuyla ilgili dava açamazlar. Bu şahıslar hakkında başlatılmış icra takipleri ödeme süresince durur, ödemeyi müteakip sonlandırılır, icra ve yargılama masrafları talep edilmez.
+
+##### **Geçici Madde 11-** 
+**(Ek: 20/8/2016-6745/34 md.)**
+
+**(İptal birinci fıkra: [Anayasa Mahkemesinin 28/3/2018 tarihli ve E: 2016/196 ve K: 2018/34 sayılı kararı](https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2018/34?EsasNo=2016%2F196&KararNo=2018%2F34)yla.)**
+
+**(İptal ikinci fıkra: [Anayasa Mahkemesinin 28/3/2018 tarihli ve E: 2016/196 ve K: 2018/34 sayılı kararı](https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2018/34?EsasNo=2016%2F196&KararNo=2018%2F34)yla.)**
+
+##### **Geçici Madde 12-** 
+**(Ek: 20/8/2016-6745/35 md.)**[34]
+
+
+
+
+
 
